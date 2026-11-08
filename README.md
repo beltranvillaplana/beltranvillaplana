@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Beltrán
 
-<!--
-**beltranvillaplana/beltranvillaplana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manual QA Engineer · 4 years of experience · English C1**
 
-Here are some ideas to get you started:
+I'm building on my manual testing experience to move into QA Automation, with Java as my main programming language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### OrangeHRM QA Portfolio
+
+An independent QA assessment focused on risk-based testing, functional validation, and clear test documentation.
+
+- **Available now:** A manual test case covering ESS user creation.
+- **Next steps:** Expand test coverage, document executions, and introduce automated tests.
+
+[Explore the portfolio →](https://github.com/beltranvillaplana/orangehrm-qa-portfolio)
+
+[Read the first test case →](https://github.com/beltranvillaplana/orangehrm-qa-portfolio/blob/main/docs/test-cases/admin/ADM-TC-001.md)
+
+## Background & Learning
+
+- Four years of professional experience in manual QA.
+- Higher Vocational Qualification in Multiplatform Application Development (DAM).
+- Programming foundations, with Java as my strongest language.
+- Currently developing test automation skills, focusing on Java and Playwright/Selenium.
+
+## About My Public Work
+
+My portfolio projects are built independently from scratch. They demonstrate my approach to quality without sharing confidential employer or client material.
