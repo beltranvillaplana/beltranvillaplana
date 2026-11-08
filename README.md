@@ -15,7 +15,7 @@ An independent QA assessment focused on risk-based testing, functional validatio
 
 [Explore the portfolio →](https://github.com/beltranvillaplana/orangehrm-qa-portfolio)
 
-[Read the first test case →](https://github.com/beltranvillaplana/orangehrm-qa-portfolio/blob/main/docs/test-cases/admin/ADM-TC-001.md)
+[Browse Admin test cases →](https://github.com/beltranvillaplana/orangehrm-qa-portfolio/tree/main/docs/test-cases/admin)
 
 ## Background & Learning
 
